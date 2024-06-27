@@ -1,4 +1,4 @@
-![Sem Título-1](https://github.com/Rhulys/Rhulys/blob/main/Sem%20Ti%CC%81tulo-1.png)
+
 
  
  <h1 align="center"> Bem-vindo(a) ao meu Github 😁 </h1>
