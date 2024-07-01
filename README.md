@@ -1,9 +1,9 @@
-![Sem Título-1](https://github.com/Rhulys/Rhulys/blob/main/capa.png)
+![Sem Título-1](https://github.com/Rhulys/Rhulys/blob/main/img.png)
 
  
  <h1 align="center"> Bem-vindo(a) ao meu Github 😁 </h1>
  
-Olá! Meu nome é Rhulyanderson Sander de Paula Silva e sou um desenvolvedor Front-end apaixonado por criar interfaces web interativas e funcionais. Tenho habilidades sólidas em HTML, CSS, JavaScript e na biblioteca Tailwind CSS, com foco no framework React.
+Olá! Meu nome é Rhulyanderson Sander de Paula Silva e sou um desenvolvedor Front-end apaixonado por criar interfaces web interativas e funcionais. Tenho habilidades sólidas em HTML, CSS, JavaScript, TypeScript e na biblioteca Tailwind CSS, com foco no framework React.
  
   <div>
     <a href="https://github.com/Rhulys">
