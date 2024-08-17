@@ -1,9 +1,10 @@
 ![Sem Título-1](https://github.com/Rhulys/Rhulys/blob/main/1588263889764.jpeg)
 
  
- <h1 align="center"> Bem-vindo(a) ao meu Github 😁 </h1>
+ <h1 align="center"> Welcome to my GitHub😁 </h1>
  
-Olá! Meu nome é Rhulyanderson Sander de Paula Silva e sou um desenvolvedor Front-end apaixonado por criar interfaces web interativas e funcionais. Tenho habilidades sólidas em HTML, CSS, JavaScript, React, Next, Typescript e Tailwind.
+ Full Stack Developer, specialized in React and Node.
+ Lover of Technology and coding ❤️
  
   <div>
     <a href="https://github.com/Rhulys">
@@ -12,18 +13,24 @@ Olá! Meu nome é Rhulyanderson Sander de Paula Silva e sou um desenvolvedor Fro
  </div>
      
  <div style="display: inline_block"><br>
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NEXT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-plain.svg">
-   <img align="center" alt="TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg">
-<img align="center" alt="TAILWIND" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="NODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> 
+    <img align="center" alt="TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg">
+    <img align="center" alt="NEXT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-plain.svg">
+    <img align="center" alt="MONGODB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+    <img align="center" alt="GRAPHQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
+    <img align="center" alt="TAILWIND" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="center" alt="FRAMERMOTION" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg">
+    <img align="center" alt="EXPRESS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+    <img align="center" alt="MONGOOSE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
   
  <br>
   
- ### Para me conhecer mais me siga nas redes abaixo!
+ ### To learn more about me, follow me on the social networks below!
   
  <div> 
    <a href="https://www.instagram.com/o_rhulys/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
