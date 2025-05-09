@@ -3,8 +3,8 @@
  
  <h1 align="center"> Welcome to my GitHub😁 </h1>
  
- Full Stack Developer, specialized in React and Node.
- Lover of Technology and coding ❤️
+Full Stack Developer | React, Node.js, TypeScript | DevOps (Docker, K8s, Rancher) | AWS Serverless | AI & Machine Learning | Next.js, GraphQL, MongoDB
+Technology Enthusiast & Problem Solver ❤️
  
   <div>
     <a href="https://github.com/Rhulys">
