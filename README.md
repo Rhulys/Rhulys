@@ -3,7 +3,8 @@
  
  <h1 align="center"> Welcome to my GitHub😁 </h1>
  
-Full Stack Developer | React, Node.js, TypeScript | DevOps (Docker, K8s, Rancher) | AWS Serverless | AI & Machine Learning | Next.js, GraphQL, MongoDB
+Full Stack Developer | React, Node.js, TypeScript | DevOps (Docker, K8s) | AWS Serverless | IA & Machine Learning | Next.js, GraphQL, MongoDB and currently pursuing a Bachelor's degree in Computer Science.
+
 Technology Enthusiast & Problem Solver ❤️
  
   <div>
