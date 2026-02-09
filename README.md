@@ -1,21 +1,29 @@
-<h1 align="center"> Olá, eu sou o Rhulyanderson! 👋 </h1>
+<h1 align="center"> 🚀 Rhulyanderson Sander | Software Development Engineer </h1>
  
-Sou um Engenheiro de Software Full Stack em formação, apaixonado por resolver problemas reais através de código limpo e arquiteturas modernas. Atualmente, curso Ciência da Computação e foco no ecossistema JavaScript/TypeScript.
+Engenheiro de Software Full Stack especializado em Sistemas Distribuídos, Arquiteturas Orientadas a Eventos e Cloud Native Solutions. Atualmente cursando Ciência da Computação e focado na construção de aplicações escaláveis com rigor técnico e alta performance.
  
-### 🚀 O que estou construindo:
-- Full Stack: Desenvolvimento com React, Next.js, Node.js e GraphQL.
-- IA aplicada: Integrando TensorFlow.js em aplicações web para previsões de dados.
-- Cloud & DevOps: Estudando e aplicando AWS Serverless, Docker e Kubernetes.
+## 🛠️ Technical Stack
+- Languages & Core: TypeScript, JavaScript (ES6+), Node.js.
+- Frontend: React, Next.js, Tailwind CSS, Framer Motion, Styled Components.
+- Backend & API: GraphQL (Apollo Server), Express, REST, JWT Authentication.
+- Cloud & DevOps: AWS Serverless (Lambda, SQS, SNS, API Gateway), AWS CDK (IaC), Docker, Kubernetes.
+- Databases: MongoDB (Mongoose), PostgreSQL, DynamoDB, Redis (Caching)
+- AI/ML: TensorFlow.js (Linear Regression & Classification models).
 
-### 🛠 Minha Stack Técnica:
-- Frontend: React, Next.js, Tailwind CSS, Framer Motion.
-- Backend: Node.js, GraphQL (Apollo), Express, MongoDB.
-- Infra: AWS (Lambda, CDK), Docker, Vercel.
+## 📌 Featured Engineering Projects
+### 🏗️ Delivery Event Orchestrator (Cloud & Backend)
+Engine de orquestração de pedidos utilizando Event-Driven Architecture para garantir consistência eventual e alta disponibilidade.
+ - Highlights: Implementação de filas (SQS) e tópicos (SNS) para desacoplamento de serviços e estratégias de Dead Letter Queues (DLQ) para resiliência.
+ - Stack: Node.js, AWS Lambda, DynamoDB, AWS CDK.
 
-### 📌 Projetos em Destaque:
-- Dashboard de Produtividade com IA: Gestão de tarefas com predição de prazos usando Machine Learning.
-- Microserviço Serverless: API escalável na AWS para processamento de alto volume.
-- Visual Layout Builder: Ferramenta para criação visual de layouts CSS.
+### 🛰️ Real-Time Rider Tracker (Distributed Systems)
+Microserviço de telemetria de baixa latência para rastreamento geográfico em tempo real.
+ - Highlights: Uso de Redis como cache distribuído e comunicação via WebSockets para atualizações de estado em tempo real com mínima latência.
+ - Stack: Node.js, TypeScript, API Gateway/IoT Core, Redis.
+
+### 🧠 Intelligent Fraud Detection (AI & Serverless)
+API de segurança para análise de risco financeiro integrada a modelos de Machine Learning em ambientes Serverless.
+ - Highlights: Modelos de classificação com TensorFlow.js dentro de AWS Lambda, otimizando validações síncronas para decisões em milissegundos.
   
  ### Para saber mais sobre mim, siga-me nas redes sociais abaixo!
   
