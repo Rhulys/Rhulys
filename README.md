@@ -11,15 +11,15 @@ Engenheiro de Software Full Stack especializado em Sistemas Distribuídos, Arqui
 - AI/ML: TensorFlow.js (Linear Regression & Classification models).
 
 ## 📌 Featured Engineering Projects
-### 🏗️ [Delivery Event Orchestrator (Cloud & Backend)](https://github.com/Rhulys/Delivery-Orchestrator)
-Engine de orquestração de pedidos utilizando Event-Driven Architecture para garantir consistência eventual e alta disponibilidade.
- - Highlights: Implementação de filas (SQS) e tópicos (SNS) para desacoplamento de serviços e estratégias de Dead Letter Queues (DLQ) para resiliência.
- - Stack: Node.js, AWS Lambda, DynamoDB, AWS CDK.
+### 🏗️ [Delivery Event Orchestrator (Full Stack & Cloud)](https://github.com/Rhulys/Delivery-Orchestrator)
+Plataforma completa de orquestração de pedidos com dashboard web e engine serverless na AWS, desenhada com Event-Driven Architecture para garantir alta disponibilidade em cenários de pico de tráfego.
+ - Highlights: Filas (SQS) com Dead Letter Queues para resiliência, padrão Fan-out via SNS, tabelas separadas de estado e auditoria no DynamoDB, e dashboard em Next.js integrado com a API em tempo real.
+ - Stack: Next.js, TypeScript, AWS Lambda, API Gateway, SQS, SNS, DynamoDB, AWS CDK.
 
-### 🛰️ [Real-Time Rider Tracker (Distributed Systems)](https://github.com/Rhulys/Real-Time)
-Microserviço de telemetria de baixa latência para rastreamento geográfico em tempo real.
- - Highlights: Uso de Redis como cache distribuído e comunicação via WebSockets para atualizações de estado em tempo real com mínima latência.
- - Stack: Node.js, TypeScript, API Gateway/IoT Core, Redis.
+### 🛰️ [Real-Time Rider Tracker (Distributed Systems + Full Stack)](https://github.com/Rhulys/Real-Time)
+Sistema completo de rastreamento de entregadores em tempo real — do GPS do entregador até o mapa na tela do cliente, com latência abaixo de 200ms.
+ - Highlights: Arquitetura de dois bancos (Redis para cache em memória + DynamoDB para histórico), sistema de salas WebSocket isolando eventos por pedido e dashboard interativa com mapa ao vivo, métricas em tempo real e velocidade estimada.
+ - Stack: Node.js, TypeScript, Socket.io, Redis, DynamoDB, Next.js, React Leaflet, Docker.
 
 ### 🧠 [Intelligent Fraud Detection (AI & Serverless)](https://github.com/Rhulys/FraudSense-AI)
 API de segurança para análise de risco financeiro integrada a modelos de Machine Learning em ambientes Serverless.
