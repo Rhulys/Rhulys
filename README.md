@@ -21,10 +21,9 @@ Sistema completo de rastreamento de entregadores em tempo real — do GPS do ent
  - Highlights: Arquitetura de dois bancos (Redis para cache em memória + DynamoDB para histórico), sistema de salas WebSocket isolando eventos por pedido e dashboard interativa com mapa ao vivo, métricas em tempo real e velocidade estimada.
  - Stack: Node.js, TypeScript, Socket.io, Redis, DynamoDB, Next.js, React Leaflet, Docker.
 
-### 🧠 [Intelligent Fraud Detection (AI & Serverless)](https://github.com/Rhulys/FraudSense-AI)
-API de segurança para análise de risco financeiro integrada a modelos de Machine Learning em ambientes Serverless.
- - Highlights: Modelos de classificação com TensorFlow.js dentro de AWS Lambda, otimizando validações síncronas para decisões em milissegundos.
-  
+### 🛡️ [FraudSense AI — Fraud Detection System (IA & Full Stack)](https://github.com/Rhulys/FraudSense-AI)
+Sistema fullstack de detecção de fraudes financeiras com rede neural e dashboard em tempo real na AWS.
+ - Highlights: Rede neural (TensorFlow.js) rodando em AWS Lambda com Docker, padrão Singleton para eliminar Cold Start, modelo persistido no S3, e dashboard em Next.js 14 com Server Components.
  ### Para saber mais sobre mim, siga-me nas redes sociais abaixo!
   
  <div> 
